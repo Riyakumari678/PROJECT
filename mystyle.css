@@ -1,0 +1,10 @@
+#i1
+{
+	color:blue;text-decoration:underline;
+}		
+body
+{
+	background-color:gray;
+}
+.mytable,tr,th,td{border:1px solid black;width:400px;cellpadding:3px;}
+.mytable2,tr,th,td{border:1px solid black;width:800px;cellpadding:3px;}
